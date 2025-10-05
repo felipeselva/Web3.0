@@ -1,23 +1,33 @@
-# smart-contract
+# Estudos Web 3.0 🚀
 
-Our LinkShield smart contract. Project from Web3 Week: https://www.luiztools.com.br/w3w
+Bem-vindo ao repositório de **estudos de Web 3.0**!  
+Aqui você encontrará anotações, exemplos de código, projetos práticos e recursos relacionados aos conceitos de blockchain, contratos inteligentes, Web3, DeFi, NFTs e mais.
 
-## How to Run
+---
 
-1. open https://remix.ethereum.org
-2. create a new LinkShield.sol file
-3. copy and paste the content from repo
-4. compile & deploy
-5. test
+## 🎯 Objetivo
 
-## More
+Este repositório tem como finalidade:
 
-Faucets: https://faucet.luiztools.com.br
+- Organizar os conteúdos aprendidos enquanto estudo a playlist de Web 3.0;
+- Servir como guia de consulta para quem quer aprender conceitos e técnicas de **Web 3.0 / blockchain / contratos inteligentes**;
+- Documentar exemplos práticos que acompanhem a teoria;
+- Promover a experimentação com rede de teste, deploy, interações com carteira (MetaMask), entre outras ferramentas.
 
-MetaMask configuration: https://www.luiztools.com.br/post/como-configurar-a-metamask-para-desenvolvimento-blockchain/
+---
 
-Know my book: https://www.luiztools.com.br/livro-web3
+## 🎥 Playlist de Estudo
 
-Follow me on social networks for more: https://about.me/luiztools
+Playlist usada como base para os estudos:  
+[Blockchain (YouTube)](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0hRfnjfcg0f9rc0lleY28O)  
 
-Receive my news on Telegram: https://t.me/luiznews
+Cada vídeo será estudado e colocado no repositório com:
+
+- Resumo / notas
+- Exemplos de código correspondentes
+- Exercícios/testes práticos
+
+---
+
+## 🗂 Estrutura sugerida do repositório
+
