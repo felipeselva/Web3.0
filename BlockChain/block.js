@@ -1,6 +1,6 @@
-const sha256 = require ('crypto-js/sha256');
 
 // Classe Block, como criar um bloco 
+const sha256 = require ('crypto-js/sha256');
 
 
 module.exports = class Block {
