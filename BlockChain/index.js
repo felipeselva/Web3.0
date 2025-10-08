@@ -1,6 +1,4 @@
 
-
-
 // VALIDANDO A BLOCKCHAIN
 
 const Block = require('./block');
