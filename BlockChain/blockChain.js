@@ -20,7 +20,7 @@ module.exports = class BlockChain {
 
   addBlock(data) {
     const lastHash = this.getLastHash();
-    const block = new Block(this.nextIndex, lastHash, data);
+    const block = new Block(this.nextIndex, lastHash, data, '0');
     this.blocks.push(block);
 
     this.nextIndex++;
