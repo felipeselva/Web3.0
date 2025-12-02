@@ -23,8 +23,8 @@ const ATR_PERIOD = 14;
 const ATR_MULTIPLIER = 2.0;
 
 // --- CHAVES DE API (TESTNET) ---
-const API_KEY = ''; 
-const SECRET_KEY = ''; 
+const API_KEY = 'ClqcbCxG4BX5ZUNd0iaZvXiqGZHfEDpEjKnuAs2biSQ2qGAiL2z321REcmYqEMeX'; 
+const SECRET_KEY = '0BfQwEhBkRubE1U0JQSaHkYDerou9e2O7YbxfgSZXb3TM7tqpIDkQt1r81VPRXEK'; 
 const API_URL = "https://testnet.binance.vision";
 
 // =================================================================
